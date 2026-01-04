@@ -151,7 +151,7 @@ export default function BookingWidget({ sessionType }: BookingWidgetProps) {
             Book a Session
           </h2>
           <p className="text-body text-secondary">
-            Before we schedule your session, we'd like to understand what you're
+            Before we schedule your session, we&apos;d like to understand what you&apos;re
             seeking clarity on.
           </p>
           <Button variant="primary" onClick={() => setShowIntake(true)}>

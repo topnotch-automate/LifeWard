@@ -105,7 +105,7 @@ export default function TermsPage() {
               Limitation of Liability
             </h2>
             <p>
-              Lifeward and its services are provided "as is" without warranties
+              Lifeward and its services are provided &quot;as is&quot; without warranties
               of any kind. We are not liable for any indirect, incidental, or
               consequential damages arising from your use of our services.
             </p>
